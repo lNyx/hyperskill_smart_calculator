@@ -3,5 +3,5 @@ this is an implementation of the hyperskill project [Smart Calculator](https://h
 
 the code is in calculator.py, var_dict.py in the folders corresponding to each of the final stages ([5](/code/stage5), [6](/code/stage6), [7](/code/stage7)).  
 
-there's also an executable running the calculator from the final stage ([here](/dist)).
+there's also an executable running the calculator from the final stage [here](/dist).
 
